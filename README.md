@@ -1,6 +1,6 @@
 # VAZ 2107 RC CAR
 
-<img src="screenshots/scr_1.png" width="400">
+<img src="screenshots/scr_1.jpg" width="400">
 
 ## 🤨 Навіщо ?:
 просто цікавий проект
@@ -13,6 +13,10 @@
 - GUI сервера на KIVY
 - під капотом працює на UDP SOCKETS
 - події джостика сервер читає через PYGAME
+- 3D моделювання в BLENDER
+- слайсинг в ULTIMAKER CURA
+- 3D FDM друк
+- пайка електричної схеми
 
 ## 🌱 Структура проекта:
 - `screenshots/` — скріншоти і фотографії
@@ -84,5 +88,8 @@ python3 server.py
 
 ## ✨ А ось так це все виглядає в реальному житті
 <img src="screenshots/scr_2.jpg" width="400">
+<img src="screenshots/scr_3.jpg" width="400">
+<img src="screenshots/scr_4.jpg" width="400">
+<img src="screenshots/scr_5.jpg" width="400">
 
 
